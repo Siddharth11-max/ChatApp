@@ -16,7 +16,7 @@ Frontend: React.js, CSS
 
 Backend/Database: Firebase (Firestore & Auth)
 
-Getting Started
+Getting Started:-
 
 Run - npm install
 
